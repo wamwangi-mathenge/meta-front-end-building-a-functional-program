@@ -20,7 +20,8 @@ function celebrateStyler(reason) {
 }
 
 // Task 3: Run both the consoleStyler and the celebrateStyler functions
-
+consoleStyler('#1d5c63', '#ede6db', '40px', 'Congrats!')
+celebrateStyler("birthday")
 
 // Task 4: Insert a congratulatory and custom message
 function styleAndCelebrate() {
